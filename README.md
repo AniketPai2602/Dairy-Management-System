@@ -1,4 +1,13 @@
 # Dairy-Management-System
+This system can be used by a Dairy firm to solve the problems of managing and storing huge amounts of data such as Staff, Purchase, Sales, Stock And Transaction details.
+
+Technology Used:
+
+User-Interface: JavaFX
+
+Database: MySql
+
+Database Connection: Java
 
 ![1](https://user-images.githubusercontent.com/103283572/227613231-0feefa76-4a63-48d2-85a6-679691062180.jpeg)
 
